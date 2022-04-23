@@ -1,0 +1,15 @@
+Consultas a Base de Datos
+
+	Problemas:
+	http://sqlfiddle.com/#!9/3357a7
+
+	Solucion:
+	http://sqlfiddle.com/#!9/3357a7/1
+
+Problemas de JOIN en Bases de Datos
+
+	Problemas:
+	http://sqlfiddle.com/#!9/e29afd
+
+	Solucion:
+	http://sqlfiddle.com/#!9/e29afd/1
